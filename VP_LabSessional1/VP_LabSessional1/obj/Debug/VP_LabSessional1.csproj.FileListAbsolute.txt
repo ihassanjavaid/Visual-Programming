@@ -1,0 +1,10 @@
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\bin\Debug\VP_LabSessional1.exe.config
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\bin\Debug\VP_LabSessional1.exe
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\bin\Debug\VP_LabSessional1.pdb
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.csprojAssemblyReference.cache
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.EmpForm.resources
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.Form1.resources
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.Properties.Resources.resources
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.csproj.GenerateResource.cache
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.exe
+C:\Users\Hassan Javaid\source\repos\VP_LabSessional1\VP_LabSessional1\obj\Debug\VP_LabSessional1.pdb
